@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="blaze" name="sc.TaskTests" tests="1" time="0.445" timestamp="2011-04-29T05:32:37">
+  <properties />
+  <testcase classname="sc.TaskTests" name="testSomething" time="0.416" />
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>
